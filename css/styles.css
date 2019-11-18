@@ -23,3 +23,7 @@ section.home{
 .bg-translucent{
 	background: rgba(0,197,213,0.22)
 }
+
+.bg-shadow{
+	box-shadow: 10px 0 10px #888888;
+}

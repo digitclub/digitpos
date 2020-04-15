@@ -3,9 +3,9 @@ body{
 	/*font-family: 'Heebo', sans-serif;*/
 }
 
-section{
+/* section{
 	height: 100vh;
-}
+} */
 
 
 section.home{
@@ -16,7 +16,7 @@ section.home{
 }
 
 .main-content{
-	padding-top:10em;
+	padding-top:2em;
 	color: #fff;
 }
 
@@ -26,4 +26,13 @@ section.home{
 
 .bg-shadow{
 	box-shadow: 10px 0 10px #888888;
+}
+
+
+ol.carousel-indicators li{
+	background-color: #43cea2;
+}
+
+span.carousel-control-prev-icon, span.carousel-control-next-icon{
+	color: #43cea2;
 }
